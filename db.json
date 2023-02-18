@@ -1,101 +1,72 @@
 {
-    "contacts": [
-      {
-        "id": "ca1",
-        "name": "Leanne Graham",
-        "email": "Sincere@april.biz",
-        "photo": "https://tse2.mm.bing.net/th?id=OIP.8srvO2PtBJk8dCezMndAtAHaJx&pid=Api&P=0",
-        "mobile": "9876543210",
-        "company": "Romaguera-Crona",
-        "title": "Developer",
-        "groupId": "1"
-      },
-      {
-        "id": "ca2",
-        "name": "Ervin Howell",
-        "email": "Shanna@melissa.tv",
-        "photo": "https://tse2.mm.bing.net/th?id=OIP.hxknN5b25zel3hJCKa_xmQHaJi&pid=Api&P=0",
-        "mobile": "9876543210",
-        "company": "Deckow-Crist",
-        "title": "Network Admin",
-        "groupId": "2"
-      },
-      {
-        "id": "ca3",
-        "name": "Clementine Bauch",
-        "email": "Nathan@yesenia.net",
-        "photo": "https://tse4.mm.bing.net/th?id=OIP.bnMZqZBnjB_bx2yrH54X-QHaLI&pid=Api&P=0",
-        "mobile": "9876543210",
-        "company": "Romaguera-Jacobson",
-        "title": "Tester",
-        "groupId": "3"
-      },
-      {
-        "id": "ca4",
-        "name": "Patricia Lebsack",
-        "email": "Julianne.OConner@kory.org",
-        "photo": "https://tse3.mm.bing.net/th?id=OIP.JAKbO1hgHRWAwjGNNVAgnAHaIr&pid=Api&P=0",
-        "mobile": "9876543210",
-        "company": "Robel-Corkery",
-        "title": "Developer",
-        "groupId": "4"
-      },
-      {
-        "id": "ca5",
-        "name": "Chelsey Dietrich",
-        "email": "Lucio_Hettinger@annie.ca",
-        "photo": "https://img.izismile.com/img/img12/20190404/640/internet_has_chosen_the_most_beautiful_hollywood_actresses_of_all_time_640_high_04.jpg",
-        "mobile": "9876543210",
-        "company": "Keebler LLC",
-        "title": "HR",
-        "groupId": "1"
-      },
-      {
-        "id": "ca6",
-        "name": "Mrs. Dennis Schulist",
-        "email": "Karley_Dach@jasper.info",
-        "photo": "https://i.pinimg.com/originals/e7/0e/18/e70e1876cdd4f5537df9a817248b9477.jpg",
-        "mobile": "9876543210",
-        "company": "Considine-Lockman",
-        "title": "Developer",
-        "groupId": "2"
-      },
-      {
-        "id": "ca7",
-        "name": "Kurtis Weissnat",
-        "email": "Telly.Hoeger@billy.biz",
-        "photo": "https://tse4.mm.bing.net/th?id=OIP.m3rkzh5zmIk5rDE9ib22wwHaJE&pid=Api&P=0",
-        "mobile": "9876543210",
-        "company": "Johns Group",
-        "title": "Data Analyst",
-        "groupId": "3"
-      },
-      {
-        "id": "ca8",
-        "name": "Nicholas Runolfsdottir V",
-        "email": "Sherwood@rosamond.me",
-        "photo": "https://qph.fs.quoracdn.net/main-qimg-db4e696e7c0905ee34f311d49135e607",
-        "mobile": "9876543210",
-        "company": "Abernathy Group",
-        "title": "Developer",
-        "groupId": "4"
-      }
-    ],
-    "groups":[
-      {
-          "id":"1",
-          "name":"Friends"
-      },
-      {
-          "id":"2",
-          "name":"Family"
-      },{
-          "id":"3",
-          "name":"Collegues"
-      },{
-          "id":"4",
-          "name":"Social"
-      }
-    ]
-  }
-  
+  "contacts": [
+    {
+      "groupId": "1",
+      "id": "ca1",
+      "name": "Brad Pitt",
+      "mobile": "7891234590",
+      "photo": "https://i.pinimg.com/originals/89/6b/7a/896b7a17e7fa73220e72955e23588451.jpg",
+      "email": "BradPitt@mail.com",
+      "company": "Film Industry ",
+      "title": "Actor "
+    },
+    {
+      "groupId": "2",
+      "name": "jake gyllenhaal",
+      "email": "jakegyllenhaal@gmail.com",
+      "mobile": "41178515424",
+      "id": "ca3",
+      "photo": "https://assets.playbill.com/head-shots/ee4edf3ec199cd6c21a8cbb5777ed991-jake-gyllenhaal.jpg",
+      "company": "Film Industry ",
+      "title": "Actor "
+    },
+    {
+      "groupId": "4",
+      "photo": "https://assets.vogue.com/photos/5e3493bbe36ad60008e28428/3:4/w_2591,h_3455,c_limit/GettyImages-1175402590.jpg",
+      "id": "ca4",
+      "name": "billie eilish",
+      "mobile": "7896540234",
+      "email": "billieeilish@hotmail.com",
+      "company": "Music Industry ",
+      "title": "Singer"
+    },
+    {
+      "groupId": "3",
+      "photo": "https://s.yimg.com/uu/api/res/1.2/q9ucl1QUeMj.uzVlEfYJlg--~B/Zmk9ZmlsbDtoPTY0NDt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-08/08aa7ac0-01c8-11ec-b6ef-342b9cde3039.cf.jpg",
+      "id": "ca5",
+      "name": "elon musk",
+      "mobile": "5578930450",
+      "email": "elonmusk@gmial.com",
+      "company": "Twitter ",
+      "title": "Owner"
+    },
+    {
+      "groupId": "4",
+      "name": "Sophia Lillis",
+      "id": "ca7",
+      "mobile": "5782650540",
+      "email": "SophiaLillis@gmail.com",
+      "photo": "https://i.pinimg.com/originals/ea/c0/71/eac071b709e9e0bc5757dbb5afc812d1.jpg",
+      "company": "Film Industry",
+      "title": "Actress"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
